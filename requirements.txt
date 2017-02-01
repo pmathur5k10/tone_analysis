@@ -1,0 +1,6 @@
+requirement-
+--numpy
+--lightfm
+
+run the script as
+$ python movie_reccomender.py
